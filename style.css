@@ -1,0 +1,15 @@
+:root{
+    --cor-da-fonte:purple;
+    --cor-do-fundo:white;
+    --cor-fonte-cabeçalho:violet;
+    --cor-fundo-cabeçalho:white;
+}
+body{
+    color:var(--cor-da-fonte);
+    background-color:var(--cor-do-fundo)
+    
+}
+header{
+    background-color: var(--cor-fonte-cabeçalho);
+    color: var(--cor-fundo-cabeçalho);
+}
